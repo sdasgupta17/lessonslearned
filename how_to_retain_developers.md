@@ -8,3 +8,4 @@ We have discussed how to retain developers during the class as follows :
 - have 1 on 1's are important to understand what motivates them and what they see in terms of career progression
 - Give them financials and stock upsides.
 - 80:20 rule
+- Never say "JUST" to your engineers to not devalue their work!
